@@ -35,7 +35,7 @@ set :repo_url, 'https://github.com/Nitin-Keswani/learngit.git'
 # set :keep_releases, 5
 
 # RVM ruby version
-  set :rvm_rby_version, '2.1.0'
+  set :rvm_ruby_version, '2.1.0'
 
 namespace :deploy do
 
