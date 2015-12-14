@@ -1,0 +1,2 @@
+# myapp
+Demonstrating capistrano
